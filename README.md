@@ -78,8 +78,6 @@ src
 │   ├── Header.jsx     # Encabezado de la aplicación
 │   ├── Footer.jsx     # Pie de página de la aplicación
 │   ├── Modal.jsx      # Modal reutilizable
-│   ├── UserTable.jsx  # Tabla de usuarios con funcionalidades CRUD
-│   └── DestinationTable.jsx # Tabla de destinos con funcionalidades CRUD
 ├── pages              # Páginas principales
 │   ├── Home.jsx       # Página de inicio con usuarios y destinos asignados
 │   ├── Usuarios.jsx   # Página para gestionar usuarios
